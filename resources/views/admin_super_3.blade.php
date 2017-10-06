@@ -38,7 +38,11 @@
     <body>
         <div class="container">
             <div class="content">
+<<<<<<< Updated upstream
                 <div class="title">Laravel 5 lampung</div>
+=======
+                <div class="title">Laravel 5 lampung lampung</div>
+>>>>>>> Stashed changes
             </div>
         </div>
     </body>
